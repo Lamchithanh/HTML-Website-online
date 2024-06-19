@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@types/react": "^18.3.2",
+    "react-chartist": "^0.14.4"
+  }
+}
